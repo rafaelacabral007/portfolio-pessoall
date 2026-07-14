@@ -1,15 +1,3 @@
-@media (max-width: 768px){
-
-    .Conteudo-principal{
-    flex-direction: column;
-    }
-
-    #Sobre,
-    #Habilidades{
-        width: 100%;
-    }
-
-}
 *{
     margin: 0;
     padding: 0;
