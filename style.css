@@ -47,6 +47,11 @@ h2{
     margin-bottom: 15px;
     font-weight: bold;
 }
+.destaque {
+    color:#FAFAFA
+}
+
+
 .Conteudo-principal{
 
     display:flex;
